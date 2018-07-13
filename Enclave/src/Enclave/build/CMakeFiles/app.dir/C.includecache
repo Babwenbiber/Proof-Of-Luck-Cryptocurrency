@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/frede/Documents/SEP/18-ibr_ds_0/src/Enclave/App/Enclave_u.c
+Enclave_u.h
+/home/frede/Documents/SEP/18-ibr_ds_0/src/Enclave/App/Enclave_u.h
+errno.h
+-
+
+/home/frede/Documents/SEP/18-ibr_ds_0/src/Enclave/App/Enclave_u.h
+stdint.h
+-
+wchar.h
+-
+stddef.h
+-
+string.h
+-
+sgx_edger8r.h
+/home/frede/Documents/SEP/18-ibr_ds_0/src/Enclave/App/sgx_edger8r.h
+stdlib.h
+-
+
+/home/frede/Programmiertes/SGX/sgxsdk/include/sgx_defs.h
+
+/home/frede/Programmiertes/SGX/sgxsdk/include/sgx_edger8r.h
+sgx_defs.h
+/home/frede/Programmiertes/SGX/sgxsdk/include/sgx_defs.h
+sgx_error.h
+/home/frede/Programmiertes/SGX/sgxsdk/include/sgx_error.h
+sgx_eid.h
+/home/frede/Programmiertes/SGX/sgxsdk/include/sgx_eid.h
+stddef.h
+-
+
+/home/frede/Programmiertes/SGX/sgxsdk/include/sgx_eid.h
+stdint.h
+-
+
+/home/frede/Programmiertes/SGX/sgxsdk/include/sgx_error.h
+

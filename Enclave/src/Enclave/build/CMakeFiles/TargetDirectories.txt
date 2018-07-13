@@ -1,0 +1,5 @@
+/home/frede/Documents/SEP/18-ibr_ds_0/src/Enclave/build/CMakeFiles/edit_cache.dir
+/home/frede/Documents/SEP/18-ibr_ds_0/src/Enclave/build/CMakeFiles/generate_key.dir
+/home/frede/Documents/SEP/18-ibr_ds_0/src/Enclave/build/CMakeFiles/enclave.dir
+/home/frede/Documents/SEP/18-ibr_ds_0/src/Enclave/build/CMakeFiles/rebuild_cache.dir
+/home/frede/Documents/SEP/18-ibr_ds_0/src/Enclave/build/CMakeFiles/app.dir

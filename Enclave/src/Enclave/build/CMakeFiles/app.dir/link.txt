@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/app.dir/App/App.cpp.o CMakeFiles/app.dir/App/Enclave_u.c.o  -o app  -L/opt/intel/sgxsdk/lib64 /opt/intel/sgxsdk/lib64/libsgx_urts_sim.so -lpthread -lsgx_uae_service_sim -Wl,-rpath,/opt/intel/sgxsdk/lib64 
